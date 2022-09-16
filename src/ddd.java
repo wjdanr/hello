@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class ddd {
     public static void main(String[] args) {
+	//주석추가
         Scanner scan = new Scanner(System.in);
         Random random = new Random();
         int[] lotto = new int[6];
